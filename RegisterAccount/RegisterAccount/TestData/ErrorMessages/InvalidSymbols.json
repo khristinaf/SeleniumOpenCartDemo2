@@ -1,0 +1,12 @@
+﻿{
+  "FirstNameError": "Can't contain special characters (except - ' ) or numbers!",
+  "LastNameError": "Can't contain special characters (except - ' ) or numbers!",
+  "EMailError": "E-Mail Address does not appear to be valid!",
+  "TelephoneError": "Telephone must contains only digits",
+  "Address1Error": "",
+  "CityError": "",
+  "PostCodeError": "",
+  "RegionStateError": "",
+  "PasswordError": "",
+  "PasswordConfirmError": ""
+}

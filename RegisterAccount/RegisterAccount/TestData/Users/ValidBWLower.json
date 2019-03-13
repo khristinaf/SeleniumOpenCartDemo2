@@ -1,0 +1,16 @@
+﻿{
+  "FirstName": "A",
+  "LastName": "A",
+  "EMail": "A@domain.com",
+  "Telephone": "AAA",
+  "Fax": "A",
+  "Company": "A",
+  "Address1": "Aaa",
+  "Address2": "A",
+  "City": "AA",
+  "PostCode": "77",
+  "Country": "Ukraine",
+  "RegionState": "Kyiv",
+  "Password": "12*2",
+  "PasswordConfirm": "12*2"
+}

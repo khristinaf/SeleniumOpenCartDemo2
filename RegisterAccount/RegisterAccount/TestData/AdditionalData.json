@@ -1,0 +1,10 @@
+﻿{
+  "FailedLoginErrorMessage": "Warning: No match for E-Mail Address and/or Password.",
+  "AccountCreatedHeader": "Your Account Has Been Created!",
+  "AccountUpdatedMessage": "Success: Your account has been successfully updated.",
+  "PasswordConfirmError": "Password confirmation does not match password!",
+  "PrivacyPolicyError": "Warning: You must agree to the Privacy Policy!",
+  "EmailAlreadyExistsError": "Warning: E-Mail Address is already registered!",
+  "BadPasswordAdditionalChar": "0",
+  "ExistingEmail": "cccc@cccc.com"
+}

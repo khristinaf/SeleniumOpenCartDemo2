@@ -1,0 +1,12 @@
+﻿{
+  "FirstNameError": "First Name must be between 1 and 32 characters!",
+  "LastNameError": "Last Name must be between 1 and 32 characters!",
+  "EMailError": "E-Mail Address does not appear to be valid!",
+  "TelephoneError": "Telephone must be between 3 and 32 characters!",
+  "Address1Error": "Address 1 must be between 3 and 128 characters!",
+  "CityError": "City must be between 2 and 128 characters!",
+  "PostCodeError": "Postcode must be between 2 and 10 characters!",
+  "RegionStateError": "Please select a region / state!",
+  "PasswordError": "Password must be between 4 and 20 characters!",
+  "PasswordConfirmError": ""
+}
